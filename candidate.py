@@ -1,6 +1,7 @@
 import os
 import getpass
 import docker
+import shutil
 import requests
 import time
 from git import Repo
