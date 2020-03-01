@@ -1,13 +1,11 @@
 import os
 import getpass
-import shutil
 import docker
 import requests
 import time
 from git import Repo
 
-user = getpass.getuser()
-workspace_dir = f"/home/{user}/workspace/"
+workspace_dir = os.getcwd()+'/workspace'
 
 try:
     shutil.rmtree(workspace_dir)
