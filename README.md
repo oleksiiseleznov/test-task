@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 ## Run programm with python
 
-YOu can check result on port which you have mention in your app. In this case it is 8080.
+You can check result on port which you have mention in your app. In this case it is 8080.
 
 ```bash
 sudo python3.8 candidate.py
