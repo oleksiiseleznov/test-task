@@ -26,7 +26,7 @@ For CentOS
 sudo yum install git
 ```
 
-3) Python 3.6 or higher. I have test it on python3.8. 
+3) Python 3.8 or higher. I have test it on python3.8. 
 
 For Ubuntu
 ```bash
